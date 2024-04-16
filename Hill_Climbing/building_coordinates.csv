@@ -1,0 +1,76 @@
+fid,osm_id,osm_way_id,name,type,aeroway,amenity,admin_level,barrier,boundary,building,craft,geological,historic,land_area,landuse,leisure,man_made,military,natural,office,place,shop,sport,tourism,other_tags,x,y
+1,"6168358",,BRAINSPACE,multipolygon,,,,,,yes,,,,,,,,,,,,,,hostel,,77.2702765515,23.2922909995
+2,"6168359",,Hostel 5 - CRANE,multipolygon,,,,,,yes,,,,,,,,,,,,,,hostel,,77.2709024355,23.2928284109
+3,"6168362",,Hostel 1 - HAWK,multipolygon,,,,,,yes,,,,,,,,,,,,,,hostel,,77.2727035616,23.289899157
+5,"13384408",,Hostel 2 - EAGLE,multipolygon,,,,,,yes,,,,,,,,,,,,,,hostel,,77.2711665311,23.291021351
+6,"13384409",,Hostel 3 - SILVERBILL,multipolygon,,,,,,yes,,,,,,,,,,,,,,hostel,,77.2705895328,23.2915861561
+7,"13384410",,Hostel 6 - SWAN,multipolygon,,,,,,yes,,,,,,,,,,,,,,hostel,,77.2714375478,23.2932448122
+8,"13384411",,Hostel 7 - SUNBIRD,multipolygon,,,,,,yes,,,,,,,,,,,,,,hostel,,77.2722708449,23.2933523485
+10,,"413257691",Mess - 2,,,restaurant,,,,yes,,,,,,,,,,,,,,,,77.2708841404,23.2913231123
+109,,"422392660",Apartment Tower - E,,,,,,,apartments,,,,,,,,,,,,,,,"""addr:city""=>""Bhopal"",""addr:postcode""=>""462066"",""addr:street""=>""IISER Bhopal Road""",77.2754422974,23.280191905
+110,,"422392663",Apartment Tower - A,,,,,,,apartments,,,,,,,,,,,,,,,"""addr:city""=>""Bhopal"",""addr:postcode""=>""462066"",""addr:street""=>""IISER Bhopal Road""",77.2743878622,23.2818271809
+111,,"422392664",Director's Residence,,,,,,,,,,,,residential,,,,,,,,,,"""addr:city""=>""Bhopal"",""addr:postcode""=>""462066"",""addr:street""=>""IISER Bhopal Road""",77.274486804,23.2841932567
+112,,"422392665",Duplex Houses - D-1 to D-5,,,,,,,,,,,,residential,,,,,,,,,,"""addr:city""=>""Bhopal"",""addr:postcode""=>""462066"",""addr:street""=>""IISER Bhopal Road""",77.2737282829,23.2840047669
+114,,"997548409",Athletic Track,,,,,,,,,,,,,track,,,,,,,running,,,77.2739662601,23.2916073113
+115,,"997550775",Mess - 1,,,restaurant,,,,yes,,,,,,,,,,,,,,,,77.2721587551,23.2899878036
+116,,"997560777",Mess - 3,,,restaurant,,,,yes,,,,,,,,,,,,,,,,77.2706021051,23.2925343014
+117,,"997560782",Mess - 4,,,restaurant,,,,yes,,,,,,,,,,,,,,,,77.2718371286,23.293301179
+118,,"997560784",,,,,,,,yes,,,,,,,storage_tank,,,,,,,,"""content""=>""water"",""description""=>""Under Ground Water Tank - 1"",""operator""=>""Under Ground Water Tank - 1""",77.273368973,23.2885123613
+119,,"997672242",Cricket Ground,,,,,,,,,,,,,pitch,,,,,,,cricket,,,77.2719682057,23.2920858709
+120,,"997672243",Ideation Hut,,,cafe,,,,yes,,,,,,,,,,,,,,,,77.271130149,23.2921446828
+121,,"997689582",Infinity - AB1,,,,,,,university,,,,,,,,,,,,,,,,77.2757085382,23.2867152226
+122,,"997689584",Elements - AB2,,,,,,,university,,,,,,,,,,,,,,,,77.2756698396,23.2875626492
+123,,"997689585",Elements - A02,,,,,,,university,,,,,,,,,,,,,,,,77.2753427985,23.2871714127
+124,,"997689586",Elements - AB2,,,,,,,university,,,,,,,,,,,,,,,,77.2751600386,23.2874012803
+125,,"997689587",Elements - A02,,,,,,,university,,,,,,,,,,,,,,,,77.27528875,23.28699855
+126,,"997689588",Cell - A03,,,,,,,university,,,,,,,,,,,,,,,,77.2755482903,23.2890905202
+127,,"997689589",Cell - A03,,,,,,,university,,,,,,,,,,,,,,,,77.27583035,23.2889389
+128,,"997689590",Cell - A03,,,,,,,university,,,,,,,,,,,,,,,,77.2757803002,23.2886260747
+129,,"997689591",4D - AB4,,,,,,,university,,,,,,,,,,,,,,,,77.2760096119,23.2864447362
+130,,"997689592",Therm - A05,,,,,,,university,,,,,,,,,,,,,,,,77.2761110831,23.2859055816
+131,,"997689593",Gravity - AB6,,,,,,,university,,,,,,,,,,,,,,,,77.2754028354,23.2863262892
+132,,"997689606",Binary - AB6,,,,,,,university,,,,,,,,,,,,,,,,77.2757464305,23.2864186732
+133,,"997689607",Library - Lumen - A08,,,,,,,university,,,,,,,,,,,,,,,,77.2746575874,23.2872255981
+134,,"997689610",Cafe Coffee Day,,,cafe,,,,yes,,,,,,,,,,,,,,,"""brand""=>""Cafe Coffee Day"",""brand:wikidata""=>""Q5017235"",""brand:wikipedia""=>""en:Café Coffee Day"",""cuisine""=>""coffee_shop"",""takeaway""=>""yes""",77.2744530678,23.2873110657
+135,,"997689611",Plasma - A09,,,,,,,university,,,,,,,,,,,,,,,"""layer""=>""1""",77.275697191,23.2858570757
+136,,"997689612",Lecture Hall Complex (LHC) Ensemble - A10,,,,,,,university,,,,,,,,,,,,,,,,77.2746437763,23.2881459599
+137,,"997689613",LHC Cafetaria,,,cafe,,,,yes,,,,,,,,,,,,,,,,77.27524545,23.2881125
+138,,"997689615",Fly facility - A11,,,,,,,yes,,,,,,,,,,,,,,,,77.275058064,23.2892131243
+139,,"997689616",Animal Facility - A12,,,,,,,apartments,,,,,,,,,,,,,,,,77.2753863367,23.2894649736
+140,,"997689617",Solvent Store - A13,,,,,,,yes,,,,,,,,,,,,yes,,,,77.2761627,23.2881742
+141,,"997689618",Liquid Nitrogen Plant - A14,,,,,,,yes,,,,,,,works,,,,,,,,,77.2759130217,23.2882170718
+142,,"997689619",BSL - 3,,,,,,,yes,,,,,,,,,,,,,,,,77.277750751,23.2870064841
+143,,"997689620",Rock Cutting Facilities,,,,,,,yes,,,,,,,,,,,,,,,,77.2759961217,23.2905151413
+144,,"997689621",Elements Extension (Proposed),,,,,,,yes,,,,,,,,,,,,,,,,77.2756716729,23.2881616139
+145,,"997714542",Badminton Hall,,,,,,,,,,,,,pitch,,,,,,,badminton,,,77.2710140476,23.2932173769
+146,,"997714543",Hostel 9 - Flamingo (Proposed),,,,,,,yes,,,,,,,,,,,,,,hostel,,77.2741439184,23.2904967345
+147,,"997714545",Mess - 5,,,restaurant,,,,yes,,,,,,,,,,,,,,,,77.2704516,23.29303205
+148,,"997714547",Student Activity Center,,,social_centre,,,,yes,,,,,,,,,,,,,,,,77.2721720324,23.2914358805
+149,,"997714548",Open Stage,,,social_centre,,,,yes,,,,,,,,,,,,,,,,77.2727324716,23.291517453
+150,,"997714549",Tennis and Badminton Court,,,,,,,,,,,,,pitch,,,,,,,tennis,,,77.27259,23.2934732
+151,,"997714550",Sports Complex,,,,,,,,,,,,,sports_centre,,,,,,,,,,77.2726134669,23.2909803301
+152,,"997714551",,,,,,,,,,,,,,pitch,,,,,,,basketball,,,77.2731558724,23.2899298634
+153,,"997714552",,,,,,,,,,,,,,pitch,,,,,,,basketball,,,77.274907872,23.2824504123
+154,,"997714553",,,,,,,,,,,,,,pitch,,,,,,,tennis,,,77.2751776273,23.2824831412
+155,,"997714554",Institute Club & Creché,,,,,,,yes,,,,,,,,,,,,,,,"""club""=>""yes""",77.2751384493,23.2819928219
+156,,"997714555",Community Center,,,community_centre,,,,yes,,,,,,,,,,,,,,,,77.275289874,23.2814067129
+157,,"997714556",,,,,,,,yes,,,,,,,,,,,,,,,,77.2751750286,23.2812050445
+158,,"997714558",Shopping Center,,,,,,,yes,,,,,,,,,,,,yes,,,,77.2740255645,23.2854061471
+159,,"997714559",,,,parking,,,,yes,,,,,,,,,,,,,,,"""covered""=>""yes""",77.2738575264,23.2852031216
+160,,"997714560",Visitor's Hostel,,,,,,,yes,,,,,,,,,,,,,,hostel,,77.2750542504,23.2833773173
+168,,"1170502563",Hostel 8 - Sky Lark,,,,,,,yes,,,,,,,,,,,,,,hostel,,77.271602289,23.2941768789
+169,,"1170502564",Mess - 6,,,restaurant,,,,yes,,,,,,,,,,,,,,,,77.2709181478,23.2939129187
+170,,"1170502565",Football Ground,,,,,,,,,,,,,pitch,,,,,,,soccer,,,77.2743065622,23.2893206367
+171,,"1170502566",,,,bicycle_parking,,,,,,,,,,,,,,,,,,,,77.27589995,23.28706
+172,,"1170502568",,,,,,,,,,,,,meadow,,,,,,,,,,,77.2748495,23.2863131
+173,,"1170502569",Security Office,,,,,,,yes,,,,,,,,,,security,,,,,,77.2770507791,23.2799627963
+174,,"1170502570",Apartment Tower (Upcoming),,,,,,,apartments,,,,,,,,,,,,,,,"""addr:city""=>""Bhopal"",""addr:postcode""=>""462066"",""addr:street""=>""IISER Bhopal Road""",77.2742686538,23.2823622952
+175,,"1170502571",Apartment Tower (Upcoming),,,,,,,apartments,,,,,,,,,,,,,,,"""addr:city""=>""Bhopal"",""addr:postcode""=>""462066"",""addr:street""=>""IISER Bhopal Road""",77.2741900434,23.2828950668
+176,,"1170502572",Duplex Houses - D-6 to D-10,,,,,,,,,,,,residential,,,,,,,,,,,77.2738260128,23.2836418702
+177,,"1170502573",Duplex Houses - D-11 to D-12,,,,,,,,,,,,residential,,,,,,,,,,,77.2741440226,23.2833796062
+178,,"1170502574",Apartment Tower - B,,,,,,,apartments,,,,,,,,,,,,,,,"""addr:city""=>""Bhopal"",""addr:postcode""=>""462066"",""addr:street""=>""IISER Bhopal Road""",77.2744804436,23.2812940674
+179,,"1170502575",Single Bed Residential Accomodation,,,,,,,,,,,,residential,,,,,,,,,,,77.2740819892,23.2813105727
+180,,"1170502576",Electrical Sub Station - 1,,,,,,,yes,,,,,,,,,,energy_supplier,,,,,,77.2732608299,23.2849881293
+181,,"1170502577",Electrical Sub Station - 2A,,,,,,,yes,,,,,,,,,,energy_supplier,,,,,,77.2729691773,23.2893007965
+182,,"1170502578",Electrical Sub Station - 2,,,,,,,yes,,,,,,,,,,energy_supplier,,,,,,77.2729422692,23.2890516084
+183,,"1170502581",Institute Works Department,,,,,,,public,,,,,,,,,,,,,,,,77.2732671252,23.2888132459

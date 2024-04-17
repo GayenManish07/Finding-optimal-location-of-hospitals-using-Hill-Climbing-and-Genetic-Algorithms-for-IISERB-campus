@@ -33,7 +33,7 @@ We start with initiating the nodes of the graph with the given coordinates and t
 
 - **Scale Sensitivity and Lack of Normalization:** The total distance measure is sensitive to the number of edges connected to every other node in the graph and hence favors nodes with fewer connections which are in remote locations on the map. This bias might not always align with finding the true optimal location in the real-world. Moreover, due to the lack of normalization, it becomes harder to compare nodes with different degrees directly.
 
-![hill climbing map](iiserb_updated.jpg)
+![hill climbing map](iiserb_updated.jpg){center}
 
 We run the algorithm for 25 random restarts, and for every iteration, we print the optimum location, coordinates, final average cost, initial starting point, initial average cost, and the type of point (whether it is a blank point or a building centroid). The final optimum location is the optimal location among all the other optima with the least average cost. We then plot the optimal location on the graph with a marker for identification.
 
@@ -45,7 +45,7 @@ Genetic algorithms are evolutionary techniques for optimization, mimicking natur
 
 Each chromosome is composed of three genes, corresponding to randomly selected nodes from each of the three specified campus regions. This design helps capture diverse geographic and functional aspects within the campus.
 
-![genetic algorithm chromosome formation](genetic_illustration.png)
+![genetic algorithm chromosome formation](genetic_illustration.png){width=80%}{center}
 
 
 ## Fitness Calculation

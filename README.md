@@ -138,6 +138,9 @@ Provides a visual representation of the final output, highlighting strategic loc
 
 ## Algorithm Details
 Utilizes hill climbing, a local search technique, evaluating criteria like distance and accessibility, enhanced with random restarts to ensure comprehensive solution exploration.
+[Learn more about Hill Climbing Algorithm](https://www.geeksforgeeks.org/introduction-hill-climbing-artificial-intelligence/)
+[Learn more about Genetic Algorithm](https://www.geeksforgeeks.org/genetic-algorithms/)
+
 
 ## Contributors
 - Prajjwal Sanskar

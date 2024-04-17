@@ -34,7 +34,7 @@ To escape local optimum solutions, random restarts are incorporated into the hil
 
 We applied the proposed hill climbing algorithm with random restarts to the real-world dataset representing a network graph of IISER Bhopal. The dataset consists of nodes representing buildings and blank points, with edges indicating connectivity between them. The cost associated with each edge represents the road-distance or transportation cost between nodes.
 
-We start with initiating the nodes of the graph with the given coordinates and the road distance as the edge weights. The objective of taking the average distance is our objective function and not the total distance because of:
+We start with initiating the nodes of the graph with the given coordinates and the road distance as the edge weights. The objective of taking the average distance is our objective function.
 
 ![hill climbing map](iiserb_updated.jpg)
 
@@ -70,6 +70,8 @@ The genetic algorithm is run over two generations, continually improving the pop
 ## Result Visualization
 
 The optimal location determined by the genetic algorithm is visualized on the campus map, highlighting the most strategically beneficial site for a new hospital based on comprehensive genetic analysis.
+
+# Code Execution:
 
 ## Installation Requirements
 
@@ -120,25 +122,21 @@ Initializes a graph in which nodes symbolize existing and potential structures, 
 ### Step 3: Algorithm Execution
 
 ## Hill Climbing
-Implements the hill climbing algorithm with random restarts to find optimal hospital locations, avoiding local optima for a broader solution search.
+Implements the hill climbing algorithm with random restarts to find optimal hospital locations, avoiding local optima for a broader solution search and finally giving the optimal location found within the specified number of iterations.
 
 ## Genetic Algorithm
-Implements Genetic algorithm with chromosome creation using random nodes from each zone
+Implements Genetic algorithm with chromosome creation using random nodes from each zone, sorting them according to their fitness values, performing crossovers and mutations and finally giving the chromosome with the best fitness value obtained within a specified number of generations.
 
 ### Step 4: Result Visualization
 Displays a graph illustrating the campus layout, existing infrastructure, proposed sites, and the selected optimal locations for hospitals.
 
 ### Running the Code
-To run the project code, specifically if using Google Colab, follow these steps:
-1. Open your terminal or command prompt.
-2. Navigate to the project directory where your Python script and CSV files are located.
-3. Open the `Hill_Climb_Final.ipynb` notebook in Google Colab.
-4. Upload the following CSV files to your Google Colab session:
-   - `building_coordinates.csv`
-   - `modified_blank_coordinates.csv`
-   - `final_networkdist_blank_to_building.csv`
-   - `final_networkdist_building_to_building.csv`
-5. Run the code cells in the notebook sequentially to execute the hill climbing algorithm and visualize the results.
+To run the code follow the following steps:
+1. Copy the repository in your local machine.
+2. Install the required libraries.
+3. Make sure all the csv files are in the same directory as the ipynb files. If you wish you use your own csv files, replace the existing ones with your own files.
+4. Run the code cells in the notebook sequentially to execute the hill climbing or genetic algorithm.
+5. If you wish to run the code in Google Collab, upload all the necessary files and execute the code similarly.
 
 ## Visualization
 Provides a visual representation of the final output, highlighting strategic locations for hospital construction to assist in effective planning and development.

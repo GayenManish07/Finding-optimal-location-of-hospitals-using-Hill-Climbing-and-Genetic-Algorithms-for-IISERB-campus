@@ -78,10 +78,12 @@ Install the following libraries using pip to ensure the project runs smoothly:
 - matplotlib
 - scipy
 - folium
+- osmnx
+- geopandas
 
 Installation command:
 ```sh
-pip install pandas networkx numpy matplotlib scipy folium
+pip install pandas networkx numpy matplotlib scipy folium osmnx geopandas
 ```
 
 ## Usage Instructions

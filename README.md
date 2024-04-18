@@ -63,7 +63,7 @@ Our population undergoes genetic operations such as selection, crossover, and mu
 
 - ### Algorithm Execution
 
-The genetic algorithm is run over two generations, continually improving the population. Each generation's best chromosome is identified based on the lowest fitness score.
+The genetic algorithm is run over two generations, continually improving the population. Each generation's best chromosome is identified based on the best fitness score.
 
 [Learn more about Hill Climbing Algorithm](https://www.geeksforgeeks.org/introduction-hill-climbing-artificial-intelligence/)
 
@@ -71,7 +71,7 @@ The genetic algorithm is run over two generations, continually improving the pop
 
 ## Result Visualization
 
-The optimal location determined by the genetic algorithm is visualized on the campus map, highlighting the most strategically beneficial site for a new hospital based on comprehensive genetic analysis.
+The optimal locations determined by the hill climbing algorithm and genetic algorithm are visualized on the campus map, highlighting the most trategically beneficial site for a new hospital.
 
 # Code Execution:
 
@@ -92,17 +92,14 @@ Install the following libraries using pip to ensure the project runs smoothly:
 - osmnx
 - geopandas
 
-Installation command:
-```sh
-pip install pandas networkx numpy matplotlib scipy folium osmnx geopandas
-```
+Install the libraries using the requirements.txt file
 
 ## Usage Instructions
 
 ### Step 1: Data Extraction and Preparation:
 The distance matrices were generated using QNEAT3 algorithm to get the road distance between nodes, and the matrices were then stored in csv format.
 
-Prepare your working directory with the necessary CSV files, in this case we have used the 
+Prepare your working directory with the necessary CSV files, in this case we have used the following files:
 
 ## For Hill Climbing:
 - `building_coordinates.csv`: Coordinates of existing structures.
@@ -132,7 +129,7 @@ Implements the hill climbing algorithm with random restarts to find optimal hosp
 Implements Genetic algorithm with chromosome creation using random nodes from each zone, sorting them according to their fitness values, performing crossovers and mutations and finally giving the chromosome with the best fitness value obtained within a specified number of generations.
 
 ### Step 4: Result Visualization
-Displays a graph illustrating the campus layout, existing infrastructure, proposed sites, and the selected optimal locations for hospitals.
+Displays a graph illustrating the campus layout, existing infrastructure, proposed sites, and the selected optimal locations for hospitals. An html file can also be obtained to visualize the reu
 
 ### Running the Code
 To run the code follow the following steps:
@@ -142,14 +139,11 @@ To run the code follow the following steps:
 4. Run the code cells in the notebook sequentially to execute the hill climbing or genetic algorithm.
 5. If you wish to run the code in Google Collab, upload all the necessary files and execute the code similarly.
 
-## Visualization
-Provides a visual representation of the final output, highlighting strategic locations for hospital construction to assist in effective planning and development.
 
 ## Contributors
-- Prajjwal Sanskar
 - Manish Gayen
 - Sayandeep Pal
 - Srijan Pradhan
+- Prajjwal Sanskar
 
-
-If you wish to collaborate to perform a similar task for a different location, please contact the authors via mail.
+If you wish to collaborate to perform a similar task for a different location, please contact the authors.

@@ -6,17 +6,16 @@
 2. Algorithm Details
    - Hill Climbing Algorithm
    - Genetic Algorithm
-4. Installation Requirements
+3. Installation Requirements
    - Prerequisites
    - Required Libraries
-5. Usage Instructions
+4. Usage Instructions
    - Step 1: Data Preparation
    - Step 2: Graph Initialization
    - Step 3: Algorithm Execution
    - Step 4: Result Visualization
-   - Running the Code
-6. Visualization
-7. Contributors
+5. Running the Code
+6. Contributors
 
 ## Project Overview
 This project is dedicated to identifying the most optimal locations for constructing new hospitals on the IISER Bhopal campus. By applying the hill climbing algorithm with random restarts and Genetic Algorithm, this project analyzes spatial data to pinpoint locations that optimize accessibility and efficiency for healthcare services.
@@ -129,9 +128,9 @@ Implements the hill climbing algorithm with random restarts to find optimal hosp
 Implements Genetic algorithm with chromosome creation using random nodes from each zone, sorting them according to their fitness values, performing crossovers and mutations and finally giving the chromosome with the best fitness value obtained within a specified number of generations.
 
 ### Step 4: Result Visualization
-Displays a graph illustrating the campus layout, existing infrastructure, proposed sites, and the selected optimal locations for hospitals. An html file can also be obtained to visualize the reu
+Displays a graph illustrating the campus layout, existing infrastructure, proposed sites, and the selected optimal locations for hospitals. An html file can also be generated to visualize the results on the world map.
 
-### Running the Code
+## Running the Code
 To run the code follow the following steps:
 1. Copy the repository in your local machine.
 2. Install the required libraries.

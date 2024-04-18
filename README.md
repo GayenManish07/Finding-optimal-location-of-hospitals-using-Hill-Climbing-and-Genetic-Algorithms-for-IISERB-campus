@@ -124,10 +124,10 @@ Initializes a graph in which nodes symbolize existing and potential structures, 
 
 ### Step 3: Algorithm Execution
 
-## Hill Climbing
+#### Hill Climbing
 Implements the hill climbing algorithm with random restarts to find optimal hospital locations, avoiding local optima for a broader solution search and finally giving the optimal location found within the specified number of iterations.
 
-## Genetic Algorithm
+#### Genetic Algorithm
 Implements Genetic algorithm with chromosome creation using random nodes from each zone, sorting them according to their fitness values, performing crossovers and mutations and finally giving the chromosome with the best fitness value obtained within a specified number of generations.
 
 ### Step 4: Result Visualization

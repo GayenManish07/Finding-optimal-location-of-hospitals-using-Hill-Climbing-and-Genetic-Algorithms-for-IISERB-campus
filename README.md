@@ -94,7 +94,7 @@ Install the following libraries using pip to ensure the project runs smoothly:
 - osmnx
 - geopandas
 
-Install the libraries using the requirements.txt file
+Install the libraries using the [requirements.txt](requirements.txt) file
 
 ## Usage Instructions
 

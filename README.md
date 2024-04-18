@@ -64,7 +64,7 @@ Our population undergoes genetic operations such as selection, crossover, and mu
 
 The genetic algorithm is run over two generations, continually improving the population. Each generation's best chromosome is identified based on the best fitness score.
 
-For a more detailed analysis refer to the [report](https://github.com/GayenManish07/Finding-optimal-location-of-hospitals-using-Hill-Climbing-and-Genetic-Algorithms-for-IISERB-campus/blob/master/README.md)
+For a more detailed analysis refer to the [report](https://github.com/GayenManish07/Finding-optimal-location-of-hospitals-using-Hill-Climbing-and-Genetic-Algorithms-for-IISERB-campus/blob/master/report.pdf)
 
 
 [Learn more about Hill Climbing Algorithm](https://www.geeksforgeeks.org/introduction-hill-climbing-artificial-intelligence/)

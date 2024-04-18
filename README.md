@@ -131,7 +131,7 @@ Implements the hill climbing algorithm with random restarts to find optimal hosp
 Implements Genetic algorithm with chromosome creation using random nodes from each zone, sorting them according to their fitness values, performing crossovers and mutations and finally giving the chromosome with the best fitness value obtained within a specified number of generations.
 
 ### Step 4: Result Visualization
-Displays a graph illustrating the campus layout, existing infrastructure, proposed sites, and the selected optimal locations for hospitals. An html file can also be generated to visualize the results on the world map.
+Displays a graph illustrating the campus layout, existing infrastructure, proposed sites, and the selected optimal locations for hospitals.
 
 ## Running the Code
 To run the code follow the following steps:
